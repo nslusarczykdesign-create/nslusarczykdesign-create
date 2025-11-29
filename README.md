@@ -1,16 +1,13 @@
-## Hi there 👋
+# Game Web Developer — Profile Card
 
-<!--
-**nslusarczykdesign-create/nslusarczykdesign-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./profile-card.svg" alt="Game Web Developer, profile card" width="680">
 
-Here are some ideas to get you started:
+Game Web Developer powered by modern technology, eager to explore the tech world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi! I'm a Game Web Developer focused on building rich, performant browser and multiplayer experiences with modern web tech. I craft interactive experiences with WebGL / WebGPU, real-time networking, and shader-driven visuals, using TypeScript-first stacks and WebAssembly where it makes sense.
+
+Core highlights
+- Role: Game Web Developer
+- Motto: Powered by modern technology · Eager to explore the tech world
+- Tech I use: TypeScript · WebGL / WebGPU · Three.js · Babylon.js · Phaser · React / Next.js · Node.js · Deno · WebAssembly (Rust) · GLSL · Shaders · Physics & Networking
+- Focus: interactive experiences, performance, cross-platform web games, tooling & pipelines
