@@ -14,7 +14,7 @@
       .subtitle { fill: #e6f6f5; font-size: 18px; }
       .tag { fill: #0f172a; font-size: 14px; font-weight: 600; }
       .meta { fill: #cfeeea; font-size: 14px; }
-      .chip { rx: 10; fill: #ffffffaa; }
+      .chip { fill: #ffffffaa; }
       .small { font-size: 12px; fill: #dbeff1; }
       .handle { fill: #0f172a; font-weight:700; font-size: 13px; }
     ]]></style>
@@ -43,24 +43,24 @@
 
   <!-- Main text block -->
   <g transform="translate(400,72)" class="card">
-    <text class="title" x="0" y="0">NDesign/text>
+    <text class="title" x="0" y="0">NDesign</text>
     <text class="subtitle" x="0" y="46">Powered by modern technology · Eager to explore the tech world</text>
 
     <!-- tech chips -->
     <g transform="translate(0,86)">
-      <rect class="chip" x="0" y="0" width="120" height="36"></rect>
+      <rect class="chip" x="0" y="0" width="120" height="36" rx="10"></rect>
       <text class="tag" x="16" y="24">TypeScript</text>
 
-      <rect class="chip" x="136" y="0" width="120" height="36"></rect>
+      <rect class="chip" x="136" y="0" width="120" height="36" rx="10"></rect>
       <text class="tag" x="152" y="24">WebGL / WebGPU</text>
 
-      <rect class="chip" x="272" y="0" width="120" height="36"></rect>
+      <rect class="chip" x="272" y="0" width="120" height="36" rx="10"></rect>
       <text class="tag" x="288" y="24">Three.js</text>
 
-      <rect class="chip" x="408" y="0" width="120" height="36"></rect>
+      <rect class="chip" x="408" y="0" width="120" height="36" rx="10"></rect>
       <text class="tag" x="424" y="24">Phaser</text>
 
-      <rect class="chip" x="544" y="0" width="120" height="36"></rect>
+      <rect class="chip" x="544" y="0" width="120" height="36" rx="10"></rect>
       <text class="tag" x="560" y="24">WASM (Rust)</text>
     </g>
 
