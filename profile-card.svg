@@ -43,7 +43,7 @@
 
   <!-- Main text block -->
   <g transform="translate(400,72)" class="card">
-    <text class="title" x="0" y="0">Game Web Developer</text>
+    <text class="title" x="0" y="0">NDesign/text>
     <text class="subtitle" x="0" y="46">Powered by modern technology · Eager to explore the tech world</text>
 
     <!-- tech chips -->
@@ -70,16 +70,13 @@
     <!-- contact / handle area -->
     <g transform="translate(0,200)">
       <rect x="0" y="0" width="680" height="72" rx="10" fill="#ffffff12"/>
-      <text class="small" x="22" y="44">GitHub: </text>
-      <text class="handle" x="84" y="44">@your-handle</text>
+      <text class="small" x="22" y="44">GitHub:</text>
+      <text class="handle" x="84" y="44">@nslusarczykdesign-create</text>
 
       <g transform="translate(420,12)">
         <text class="small" x="0" y="18">Website:</text>
-        <text class="handle" x="72" y="18">your-site.dev</text>
+        <text class="handle" x="72" y="18">WIP</text>
       </g>
     </g>
   </g>
-
-  <!-- Footer tiny note -->
-  <text x="44" y="380" class="small">Copy this SVG into your profile repo, edit the handle/avatar, and reference it from README.md</text>
 </svg>
